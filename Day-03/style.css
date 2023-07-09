@@ -1,0 +1,39 @@
+body {
+    
+    color: brown;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+  
+    background-repeat: no-repeat;
+    
+}
+
+.special{
+    opacity: 1;
+  
+    border-width: 1px;
+    border-style: solid;
+    border-color: royalblue;
+  
+    border-left-width: 8px;
+ 
+    margin: auto;
+    padding: auto;
+  
+
+}
+
+div:hover{
+    background-color: red;
+    color: white;
+}
+
+img{
+    opacity: 0.5;
+}
+
+span{
+    border: 2px solid red;
+    padding: 0px;
+}
